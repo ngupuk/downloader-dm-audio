@@ -12,7 +12,7 @@ Chrome Extension to Show Download Audio of Instagram Direct Message
 
 - Set chrome to dev mode
 
-  Goto `chrome://extensions/` and shitch to **Developer mode**.
+  Goto `chrome://extensions/` and switch to **Developer mode**.
 
 - Load extension
 
